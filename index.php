@@ -5,7 +5,6 @@
     <title>GYO opdracht</title>
 </head>
 <body>
-
     <?php ?>
 </body>
 </html>
