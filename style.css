@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+.emojiStrook {
+    margin-right: 0;
+    width: 345px;
+    height: 60px;
+}
+
+.emoji {
+    width: 17%;
+    height: 100%;
+    margin-right: 5px;
+    padding: 0;
+    background: black;
+    border-radius: 100%;
+    transition: border 500ms;
+}
+
+#emoji1 {
+
+}
+
+#emoji2 {
+
+}
+
+#emoji3 {
+
+}
+
+#emoji4 {
+
+}
+
+#emoji5 {
+
+}
